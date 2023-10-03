@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Custom;
+  src: url("./assert/ff1.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Custom1;
+  src: url("./assert/BroadwayFlat3D.ttf");
+
+  font-style: normal;
+}
+@font-face {
+  font-family: Custom2;
+  src: url("./assert/ff4.ttf");
+  font-style: normal;
+}
+@font-face {
+  font-family: Custom3;
+  src: url("./assert/ff6.ttf");
+  font-style: normal;
+}
+@font-face {
+  font-family: Custom4;
+  src: url("./assert/ ");
+  font-style: normal;
+}
+@font-face {
+  font-family: Custom5;
+  src: url("./assert/Borcer-BF65042a53e6b0d.ttf");
+  font-style: normal;
+}
+@font-face {
+  font-family: Custom6;
+  src: url("./assert/entropicbrushpersonaluseregular-lg3ve.otf");
+  font-style: normal;
+}
+@font-face {
+  font-family: Custom7;
+  src: url("./assert/scotties.ttf");
+  font-style: normal;
+}
